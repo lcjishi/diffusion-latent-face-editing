@@ -1,0 +1,37 @@
+# Data
+data/
+
+# Precomputed latent files
+*.pt
+*.pth
+*.ckpt
+
+# Model checkpoints
+checkpoints/
+
+# Generated experiment outputs
+results/
+outputs/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+#
+.DS_Store
+.vscode/
+*.log
