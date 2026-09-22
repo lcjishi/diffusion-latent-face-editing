@@ -1,9 +1,5 @@
 # Face Attribute Editing via Stable Diffusion VAE Latent Directions
 
-**Author:** Chenjishi Lin  
-**Course:** Computer Vision
-**Institution:** Columbia University  
-
 ---
 
 ## Overview
