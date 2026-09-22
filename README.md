@@ -1,7 +1,7 @@
 # Neural Face Attribute Editing via Stable Diffusion VAE Latent Directions
 
 **Author:** Chenjishi Lin  
-**Course:** Computer Vision — Final Project  
+**Course:** Computer Vision
 **Institution:** Columbia University  
 
 ---
