@@ -1,7 +1,5 @@
 # Face Attribute Editing via Stable Diffusion VAE Latent Directions
 
----
-
 ## Overview
 
 This project implements a lightweight and interpretable facial attribute editing by learning semantic directions directly in the latent space of a pretrained Stable Diffusion VAE.
